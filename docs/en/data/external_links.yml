@@ -177,6 +177,11 @@ articles:
       title: "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する"
       author_link: https://qiita.com/bee2
       author: "@bee2"
+  chinese:
+    - link: https://www.cnblogs.com/mazhiyong/p/12807660.html
+      title: "FastAPI 学习手册"
+      author_link: https://www.cnblogs.com/mazhiyong/
+      author: "zhiyong ma"
   vietnamese:
     - link: https://fullstackstation.com/fastapi-trien-khai-bang-docker/
       title: "FASTAPI: TRIỂN KHAI BẰNG DOCKER"
